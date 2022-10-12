@@ -241,6 +241,5 @@ void heading()
 {
 	printf("\t\t\t\t***Tourism Package "
 		"Management System***\n");
-	printf("\t\t\t***Vaccination Certificate "
-		"Is Necessary For Travel Purpose***\n\n");
+	printf("\t\t\t***pack your bags***\n\n");
 }
